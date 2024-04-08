@@ -1,3 +1,6 @@
+#Created by: Christian Raúl Jiménez Hernández - AO1736302
+#Pruebas Sistema de Gestión de Cafetería
+
 import pytest
 from Gestion_cafeteria import agregar_bebida 
 

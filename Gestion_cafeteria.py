@@ -1,3 +1,6 @@
+#Created by: Christian Raúl Jiménez Hernández - AO1736302
+#Pruebas Sistema de Gestión de Cafetería
+
 def agregar_bebida(entrada):
     # Eliminar espacios en blanco de la entrada
     entrada = entrada.replace(" ", "")
